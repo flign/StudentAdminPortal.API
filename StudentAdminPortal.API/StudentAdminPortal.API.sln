@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAdminPortal.API", "StudentAdminPortal.API\StudentAdminPortal.API.csproj", "{FFA5ED56-7613-46C2-9A41-BA6240BAFB0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAdminPortal.API", "StudentAdminPortal.API\StudentAdminPortal.API.csproj", "{8684C01E-8F02-4F6A-84A7-497994C57AAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FFA5ED56-7613-46C2-9A41-BA6240BAFB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FFA5ED56-7613-46C2-9A41-BA6240BAFB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FFA5ED56-7613-46C2-9A41-BA6240BAFB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FFA5ED56-7613-46C2-9A41-BA6240BAFB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8684C01E-8F02-4F6A-84A7-497994C57AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8684C01E-8F02-4F6A-84A7-497994C57AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8684C01E-8F02-4F6A-84A7-497994C57AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8684C01E-8F02-4F6A-84A7-497994C57AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BD1D3BD9-49A3-4D14-A36A-66F40690EAED}
+		SolutionGuid = {C364741A-605C-4397-8718-E834F6811B7E}
 	EndGlobalSection
 EndGlobal
