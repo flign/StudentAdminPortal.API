@@ -1,10 +1,14 @@
 ﻿using StudentAdminPortal.API.DataModels;
+using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace StudentAdminPortal.API.Repositories
 {
     public interface IStudentRepository
     {
-        List<Student> GetStudents();
+        Task<List<Student>> GetStudents();
+        Task<Student> GetStudentAsync(Guid studentId);
+        Task<List<Gender>>GetGendersAsync();
     }
 }
