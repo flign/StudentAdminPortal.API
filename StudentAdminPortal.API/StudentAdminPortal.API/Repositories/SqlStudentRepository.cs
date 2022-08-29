@@ -69,7 +69,6 @@ namespace StudentAdminPortal.API.Repositories
                 existingStudent.Email = request.Email;
                 existingStudent.Mobile = request.Mobile;
                 existingStudent.GenderId = request.GenderId;
-                existingStudent.Gender = request.Gender;
                 existingStudent.Address.PhysicalAddress = request.Address.PhysicalAddress;
                 existingStudent.Address.PostalAddress = request.Address.PostalAddress;
 
